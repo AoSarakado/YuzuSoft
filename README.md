@@ -35,5 +35,6 @@
   - Dracu-Riot!
   - Senren★Banka（千恋万花）
   - Limelight Lemonade Jam
+  - Sanoba Witch（魔女的夜宴，YuzuCrypt 通用加密）
 - 配合 GARbro（支持柚子社 xp3 加密）即可解包。
 - 完整解包流程（xp3 → tlg → png）见相关技术文档。

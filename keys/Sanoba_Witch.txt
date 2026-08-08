@@ -1,0 +1,4 @@
+# Sanoba Witch（魔女的夜宴）(YuzuCrypt 通用加密，无独立参数)
+# 使用 GARbro 内置 YuzuCrypt 支持即可解包
+(base)<StartupTjsNotEncrypted>k__BackingField = False
+  (base)<ObfuscatedIndex>k__BackingField = False

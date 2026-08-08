@@ -1,0 +1,9 @@
+# Dracu-Riot! (GameRes.Formats.KiriKiri.CxEncryption)
+m_mask=752
+m_offset=1048
+PrologOrder=0x02, 0x00, 0x01
+OddBranchOrder=0x00, 0x03, 0x05, 0x04, 0x02, 0x01
+EvenBranchOrder=0x05, 0x03, 0x00, 0x02, 0x01, 0x04, 0x06, 0x07
+TpmFileName=plugin\dracuriot.tpm
+base_<StartupTjsNotEncrypted>k__BackingField=False
+base_<ObfuscatedIndex>k__BackingField=False

@@ -28,6 +28,12 @@
 
 ## 工具链
 
-- 解包密钥：`keys/` 目录（GARbro 格式密钥，民间版 + Steam 版）。
+- 解包密钥：`keys/` 目录（GARbro 格式密钥，来自 GARbro 社区数据库）。
+- 支持游戏（民间版 + Steam 版）：
+  - Cafe Stella to Shinigami no Chou（星光咖啡馆与死神之蝶）
+  - Riddle Joker
+  - Dracu-Riot!
+  - Senren★Banka（千恋万花）
+  - Limelight Lemonade Jam
 - 配合 GARbro（支持柚子社 xp3 加密）即可解包。
 - 完整解包流程（xp3 → tlg → png）见相关技术文档。

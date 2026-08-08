@@ -38,3 +38,4 @@
   - Sanoba Witch（魔女的夜宴，YuzuCrypt 通用加密）
 - 配合 GARbro（支持柚子社 xp3 加密）即可解包。
 - 完整解包流程（xp3 → tlg → png）见 `docs/解包指南.md`。
+- 密钥提取工具与配方见 `tools/dump_garbro_keys.cs` + `docs/密钥提取指南.md`。

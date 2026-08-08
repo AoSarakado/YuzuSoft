@@ -37,4 +37,4 @@
   - Limelight Lemonade Jam
   - Sanoba Witch（魔女的夜宴，YuzuCrypt 通用加密）
 - 配合 GARbro（支持柚子社 xp3 加密）即可解包。
-- 完整解包流程（xp3 → tlg → png）见相关技术文档。
+- 完整解包流程（xp3 → tlg → png）见 `docs/解包指南.md`。

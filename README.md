@@ -1,4 +1,4 @@
-# YuziSoft 素材库
+# YuzuSoft 素材库
 
 《星光咖啡馆与死神之蝶》（Cafe Stella to Shinigami no Chou）解包素材（SFW）。
 

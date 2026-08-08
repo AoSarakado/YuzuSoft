@@ -13,11 +13,11 @@
 
 | 目录 | 说明 | 数量 |
 |------|------|------|
-| full/bgimage/ | 背景图（PNG，原图 2120x1280） | 117 |
-| full/fgimage/ | 角色立绘（PNG，按角色分 9 目录） | 1751 |
-| full/evimage_png/ | 事件 CG 图层（PNG，按事件编号分目录） | - |
-| full/evimage/sd/ | SD 小剧场插画（PNG 成品） | 344 |
-| full/bgm/ | BGM 音乐（opus） | 53 |
+| Cafe Stella/bgimage/ | 背景图（PNG，原图 2120x1280） | 117 |
+| Cafe Stella/fgimage/ | 角色立绘（PNG，按角色分 9 目录） | 1751 |
+| Cafe Stella/evimage_png/ | 事件 CG 图层（PNG，按事件编号分目录） | - |
+| Cafe Stella/evimage/sd/ | SD 小剧场插画（PNG 成品） | 344 |
+| Cafe Stella/bgm/ | BGM 音乐（opus） | 53 |
 
 ## 说明
 
